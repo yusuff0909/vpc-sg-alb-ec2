@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket       = "terra-ec2-form" #replace with yours
+    bucket       = "hjkskjjsjsjsj" #replace with your bucket name
     key          = "vpc-sg-alb-ec2/terraform.state"
     region       = "us-east-1"
     encrypt      = true
